@@ -1,3 +1,42 @@
+
+*****************************
+
+# [Project Name] - recipe_book
+
+## Author: [Your Name] - Carey Burnett
+
+## Description - Front end code for recipe_book
+
+ 
+This is a Next.js application named [movie_watchlist]. It includes a simple home page.
+
+
+## How to Run
+
+1. Clone the repository: git clone [[repository URL](https://github.com/cjburn3/recipe_book)]
+
+2. Navigate to the project directory: `cd [movie_watchlist]`
+
+3. Install dependencies: `npm install`
+
+4. Run the development server: `npm run dev`
+
+5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the app in action.
+
+
+
+## Deployment
+
+This application is deployed on Vercel. You can view the live site at: [deployment URL]
+
+
+
+****Technologies Used
+
+- Next.js
+- React
+
+------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
